@@ -14,4 +14,4 @@ Install Android Studio
 
 Install SDK/JDK
 
-
+Install Latest Gradle version
