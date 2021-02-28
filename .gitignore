@@ -1,0 +1,7 @@
+
+*.jar
+*.cmd
+Server/mvnw
+*.properties
+*.jar
+Server/.mvn/wrapper/maven-wrapper.jar
