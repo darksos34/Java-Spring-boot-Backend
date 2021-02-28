@@ -5,6 +5,6 @@ Server/mvnw
 *.properties
 *.jar
 
-.mvn
+*.mvn/wrapper
 
 .idea
