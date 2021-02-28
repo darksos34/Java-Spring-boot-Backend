@@ -5,3 +5,4 @@ Server/mvnw
 *.properties
 *.jar
 Server/.mvn/wrapper/maven-wrapper.jar
+Server/.mvn/wrapper/MavenWrapperDownloader.java
