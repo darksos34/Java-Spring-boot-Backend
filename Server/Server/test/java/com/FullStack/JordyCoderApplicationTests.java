@@ -1,10 +1,10 @@
-package com.businessapp.ViaConnect;
+package com.FullStack;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ViaConnectApplicationTests {
+class JordyCoderApplicationTests {
 
 	@Test
 	void contextLoads() {
