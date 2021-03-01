@@ -8,10 +8,10 @@
 		<version>2.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.business-app</groupId>
-	<artifactId>ViaConnect</artifactId>
+	<groupId>com.fullstack-app</groupId>
+	<artifactId>JordyCoder</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ViaConnect</name>
+	<name>JordyCoder</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
