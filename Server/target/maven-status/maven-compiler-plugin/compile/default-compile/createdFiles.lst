@@ -1,0 +1,9 @@
+com\FullStack\user\repository\UserRepository.class
+com\FullStack\user\service\UserService.class
+com\FullStack\model\Audit.class
+com\FullStack\profile\repository\ProfileRepository.class
+com\FullStack\JordyCoderApplication.class
+com\FullStack\profile\model\EGender.class
+com\FullStack\user\model\User.class
+com\FullStack\profile\model\Profile.class
+com\FullStack\user\controller\UserController.class
