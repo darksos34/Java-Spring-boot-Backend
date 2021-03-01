@@ -1,5 +1,7 @@
 package com.FullStack.profile.repository;
 
+
+
 import com.FullStack.profile.model.Profile;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

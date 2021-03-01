@@ -1,4 +1,4 @@
-package com.FullStack.model;
+package com.FullStack.audit.Model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;
