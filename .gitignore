@@ -3,7 +3,7 @@
 *.cmd
 Server/mvnw
 *.properties
-*.jar
+
 
 *.mvn/wrapper
 
