@@ -1,7 +1,7 @@
-package com.businessapp.ViaConnect.user.controller;
+package com.JordyCoder.user.controller;
 
-import com.businessapp.ViaConnect.user.model.User;
-import com.businessapp.ViaConnect.user.service.UserService;
+import com.JordyCoder.user.model.User;
+import com.JordyCoder.user.service.UserService;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.web.bind.annotation.*;

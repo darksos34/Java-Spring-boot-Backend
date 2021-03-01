@@ -1,6 +1,6 @@
-package com.businessapp.ViaConnect.profile.model;
+package com.JordyCoder.profile.model;
 
-import com.businessapp.ViaConnect.user.model.User;
+import com.JordyCoder.user.model.User;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

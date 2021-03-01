@@ -1,4 +1,4 @@
-package com.businessapp.ViaConnect.model;
+package com.JordyCoder.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;

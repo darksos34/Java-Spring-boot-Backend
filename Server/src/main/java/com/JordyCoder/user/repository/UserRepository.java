@@ -1,7 +1,7 @@
-package com.businessapp.ViaConnect.user.repository;
+package com.JordyCoder.user.repository;
 
 
-import com.businessapp.ViaConnect.user.model.User;
+import com.JordyCoder.user.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

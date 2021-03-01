@@ -1,7 +1,7 @@
-package com.businessapp.ViaConnect.user.service;
+package com.JordyCoder.user.service;
 
-import com.businessapp.ViaConnect.user.model.User;
-import com.businessapp.ViaConnect.user.repository.UserRepository;
+import com.JordyCoder.user.model.User;
+import com.JordyCoder.user.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.stereotype.Service;

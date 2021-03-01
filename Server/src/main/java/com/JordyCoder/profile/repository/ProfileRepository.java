@@ -1,6 +1,6 @@
-package com.businessapp.ViaConnect.profile.repository;
+package com.JordyCoder.profile.repository;
 
-import com.businessapp.ViaConnect.profile.model.Profile;
+import com.JordyCoder.profile.model.Profile;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
