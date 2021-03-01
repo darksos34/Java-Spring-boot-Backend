@@ -1,7 +1,7 @@
-package com.JordyCoder.user.service;
+package com.FullStack.user.service;
 
-import com.JordyCoder.user.model.User;
-import com.JordyCoder.user.repository.UserRepository;
+import com.FullStack.user.model.User;
+import com.FullStack.user.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.stereotype.Service;

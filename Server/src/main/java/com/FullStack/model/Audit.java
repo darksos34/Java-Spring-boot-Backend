@@ -1,4 +1,4 @@
-package com.JordyCoder.model;
+package com.FullStack.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;

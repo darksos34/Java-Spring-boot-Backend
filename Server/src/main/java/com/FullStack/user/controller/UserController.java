@@ -1,7 +1,7 @@
-package com.JordyCoder.user.controller;
+package com.FullStack.user.controller;
 
-import com.JordyCoder.user.model.User;
-import com.JordyCoder.user.service.UserService;
+import com.FullStack.user.model.User;
+import com.FullStack.user.service.UserService;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.web.bind.annotation.*;

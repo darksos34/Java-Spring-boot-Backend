@@ -1,6 +1,6 @@
-package com.JordyCoder.profile.model;
+package com.FullStack.profile.model;
 
-import com.JordyCoder.user.model.User;
+import com.FullStack.user.model.User;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
