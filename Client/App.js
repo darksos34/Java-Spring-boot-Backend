@@ -7,9 +7,21 @@
  */
 import {Header, Icon} from 'react-native-elements';
 import React from 'react';
-import {SafeAreaView, ScrollView, StatusBar, StyleSheet, Text, View,} from 'react-native';
+import {
+  SafeAreaView,
+  ScrollView,
+  StatusBar,
+  StyleSheet,
+  Text,
+  View,
+} from 'react-native';
 
-import {Colors, DebugInstructions, LearnMoreLinks, ReloadInstructions,} from 'react-native/Libraries/NewAppScreen';
+import {
+  Colors,
+  DebugInstructions,
+  LearnMoreLinks,
+  ReloadInstructions,
+} from 'react-native/Libraries/NewAppScreen';
 
 const App: () => React$Node = () => {
   return (
@@ -19,22 +31,21 @@ const App: () => React$Node = () => {
         <ScrollView
           contentInsetAdjustmentBehavior="automatic"
           style={styles.scrollView}>
-
           {/*Replace Dependency with your own code *
-            *Resource from https://reactnativeelements.com/docs/header/#header-with-default-components*/}
+           *Resource from https://reactnativeelements.com/docs/header/#header-with-default-components*/}
           <Header
-
-              leftComponent={{ icon: 'menu', color: '#fff' }}
-              centerComponent={{ text: 'Coder', style: { color: '#fff' } }}
-              rightComponent={{ icon: 'home', color: '#fff' }}
+            leftComponent={{icon: 'menu', color: '#fff'}}
+            centerComponent={{text: 'Coder', style: {color: '#fff'}}}
+            rightComponent={{icon: 'home', color: '#fff'}}
           />
           {/*Replace Icon with your own icons*/}
           <Icon
-              raised
-              name='heartbeat'
-              type='font-awesome'
-              color='#f50'
-              onPress={() => console.log('hello')} />
+            raised
+            name="heartbeat"
+            type="font-awesome"
+            color="#f50"
+            onPress={() => console.log('hello')}
+          />
 
           {global.HermesInternal == null ? null : (
             <View style={styles.engine}>
