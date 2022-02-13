@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@react-navigation/native": "^5.9.3",
+    "@react-navigation/native": "^5.9.8",
     "color-string": "^1.5.5",
     "glob-parent": "^5.1.2",
     "node-notifier": "^9.0.1",
