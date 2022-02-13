@@ -2,17 +2,13 @@
 
 
 ```
-- Updated on 15-07-2021
-- Updated Front-end on 29-06-2021
+- Updated on 13-02-2022
+
 - Created on 27-02-2021
 - Made by Jordy Coder
 ```
 
-## Frontend/Client-side
-- JavaScript
-- NodeJs
-- React-Native
-- React
+
 ## Backend/Server-side
 - Java
 - Spring Boot
