@@ -3,7 +3,6 @@ package com.FullStack.auth.security.config;
 import com.FullStack.auth.security.jwt.AuthEntryPointJwt;
 import com.FullStack.auth.security.jwt.AuthTokenFilter;
 import com.FullStack.auth.service.UserDetailsServiceImpl;
-
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

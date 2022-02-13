@@ -3,7 +3,6 @@ package com.FullStack.user.controller;
 import com.FullStack.user.model.User;
 import com.FullStack.user.service.UserService;
 import lombok.RequiredArgsConstructor;
-
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;

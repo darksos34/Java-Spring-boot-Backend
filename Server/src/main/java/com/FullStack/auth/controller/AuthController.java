@@ -1,6 +1,5 @@
 package com.FullStack.auth.controller;
 
-import lombok.RequiredArgsConstructor;
 import com.FullStack.auth.payload.request.LoginRequest;
 import com.FullStack.auth.payload.request.RegisterRequest;
 import com.FullStack.auth.payload.response.JwtResponse;
@@ -12,7 +11,7 @@ import com.FullStack.role.model.Role;
 import com.FullStack.role.repository.RoleRepository;
 import com.FullStack.user.model.User;
 import com.FullStack.user.repository.UserRepository;
-
+import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

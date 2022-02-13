@@ -1,9 +1,8 @@
 package com.FullStack.user.service;
 
 import com.FullStack.user.model.User;
-import com.FullStack.user.repository.*;
+import com.FullStack.user.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
-
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

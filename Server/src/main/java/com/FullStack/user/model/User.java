@@ -1,16 +1,13 @@
 package com.FullStack.user.model;
 
 
-
+import com.FullStack.audit.Model.Audit;
 import com.FullStack.profile.model.Profile;
 import com.FullStack.role.model.Role;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
-import com.FullStack.audit.Model.Audit;
-
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;
